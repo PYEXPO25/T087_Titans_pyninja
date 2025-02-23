@@ -5,14 +5,15 @@
 ## Problem Statement
 
 *Problem Statement ID – T087
+The title we have given for our problem statement is SOS alert for Asthma attack. Our target audience are patients who suffer from Asthma. During attack the anxiety for finding nebulizer will be increased. People with asthma may need to receive emergency heath care if it gets severe.
 
-Formulate your problem statement clearly and concisely.
 
 ---
 
 ## Overview
 
-Provide an overview of the project, its purpose, and what it aims to achieve along with proposed solution
+We have planned to solve the difficulties faced by the asthma patients by adding special features in wrist watch and an inhaler box with inbuilt sensors. We have decided to send an SOS message during severe asthma attack, also remainder about the draining of the puff and planned to design the inhaler box with photo-luminescent tape to find nebulizer during blackout.
+
 
 ---
 
@@ -22,11 +23,11 @@ Provide an overview of the project, its purpose, and what it aims to achieve alo
 
 List your team members along with their roles.
 
-- *Member 1* - 
-- *Member 2* - Role
-- *Member 3* - Role
-- *Member 4* - Role
-- *Member 5* - Role
+- *Member 1* - Sruthi.R
+- *Member 2* - Sreenidhi.A(software)
+- *Member 3* - Sakthi Jagadeshwari.K(Software)
+- *Member 4* - Visvamitha,M(Software)
+- *Member 5* - Srihari
 - *Member 6* - Role
 - *Member 7* - Role
 - *Member 8* - Role
