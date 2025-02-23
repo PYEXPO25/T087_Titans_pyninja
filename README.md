@@ -42,10 +42,12 @@ List the technologies and tools used in the project. For example:
 
 HARDWARE:-
                  ESP-32
+  ----
 SENSORS:-
                 MAX30102 (Oximeter & Heart rate sensor)
                 Object detecting sensor (Ultrasonic sensor [HC-SR04] )
                 ATTiny85
+ -----
  SOFTWARE:-
                 Python
                 Thonny IDE & Aurdino IDE
