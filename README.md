@@ -59,7 +59,7 @@ SENSORS:-
 [Click here to view the PPT](https://drive.google.com/file/d/1YW9SQ9I-9FPD683ChO8B3GQZVrqVefTm/view?usp=sharing)
 
 ### 🎥 Project Video
-[Click here to view the project demo video](insert-drive-link-here)
+[Click here to view the project demo video]()
 
 ### 📹 YouTube Link
 [Watch the project on YouTube](insert-youtube-link-here)
