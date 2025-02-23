@@ -27,12 +27,12 @@ List your team members along with their roles.
 - *Member 2* - Sreenidhi.A(software)
 - *Member 3* - Sakthi Jagadeshwari.K(Software)
 - *Member 4* - Visvamitha,M(Software)
-- *Member 5* - Srihari
-- *Member 6* - Role
+- *Member 5* - Srihari.S(Hardware)
+- *Member 6* - Sanjaibharathi.P(Hardware)
 - *Member 7* - Role
 - *Member 8* - Role
 
-![Team Photo](media/team-photo.png)
+![Team Photo])
 
 ---
 
@@ -40,11 +40,15 @@ List your team members along with their roles.
 
 List the technologies and tools used in the project. For example:
 
-- *Frontend:* HTML, CSS, JavaScript, ReactJS
-- *Backend:* Flask, Django
-- *Database:* MongoDB, MySQL
-- *Other Tools:* Docker, Git, TensorFlow
-
+HARDWARE:-
+                 ESP-32
+SENSORS:-
+                MAX30102 (Oximeter & Heart rate sensor)
+                Object detecting sensor (Ultrasonic sensor [HC-SR04] )
+                ATTiny85
+ SOFTWARE:-
+                Python
+                Thonny IDE & Aurdino IDE
 ---
 
 ## Getting Started
@@ -123,7 +127,7 @@ Images to demonstrate the user interface:
 ## Resources
 
 ### 📄 PowerPoint Presentation
-[Click here to view the PPT](insert-drive-link-here)
+[Click here to view the PPT](https://drive.google.com/drive/my-drive)
 
 ### 🎥 Project Video
 [Click here to view the project demo video](insert-drive-link-here)
